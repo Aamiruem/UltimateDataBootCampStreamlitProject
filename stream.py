@@ -196,8 +196,8 @@ st.image("igor.jpg")
 st.audio("audio.mp3")
 st.audio("artificial.mp3")
 st.video("video1.mp4")
-st.video("video4.mp4")
-st.video("video2.mp4")
+# st.video("video4.mp4")
+# st.video("video2.mp4")
 
 st.checkbox('checkbox')
 st.button('Click button')
@@ -293,3 +293,4 @@ st.scatter_chart(chart_data)
 
 with st.chat_message("user"):
     st.write("Hello ji")
+
